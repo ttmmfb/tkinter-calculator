@@ -15,8 +15,8 @@
 1. Убедитесь, что у вас установлен **Python 3.x**.
 2. Клонируйте репозиторий или скачайте файл с кодом:
    ```bash
-   git clone https://github.com
-   cd название-репозитория
+   git clone [https://github.com](https://github.com/ttmmfb/tkinter-calculator)
+   cd tkinter-calculator
    ```
 3. Запустите программу:
    ```bash
